@@ -1,0 +1,10 @@
+---
+- name: "Installing Apache Webserver"
+- name: "adding php support"
+- name: "creating httpd.conf from httpd.conf.tmpl file"
+- name: "creating virtualhost from virtualhost.conf.tmpl file"
+- name: "creating documentroot for virtualhost"
+- name: "Restarting/Enabling Apache Webserver"
+- name: "installing mysql server"
+- name: "restartting mysql server"
+
